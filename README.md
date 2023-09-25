@@ -4,7 +4,6 @@
 
 - Write basic loops with the `for` and `while` constructs.
 - Use generator and list comprehensions to accomplish complex tasks quickly.
-
 ***
 
 ## Key Vocab
